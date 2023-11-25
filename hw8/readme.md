@@ -1,6 +1,6 @@
 # Part 1:
 paper link: https://arxiv.org/abs/2311.10917
-![Bad plot]([https://path-to-your-image.png](https://path-to-your-image.png)https://path-to-your-image.png)
+![Bad plot](https://github.com/chacelin993/DSPS_CLin/blob/main/hw8/bad_plot.png)
 - The x and y axis are not labeled. The ticks are too small to see clearly. The direction of arrows is difficult to read.
 - **effect size**: The numerical qauntity does match the size.
 - **data/ink**: The field lines can be reduced.

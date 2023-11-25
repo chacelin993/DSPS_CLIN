@@ -11,7 +11,8 @@ paper link: https://arxiv.org/abs/2311.10917
 **Good plot**:
 paper link: https://arxiv.org/abs/2109.03125
 ![Good plot](https://github.com/chacelin993/DSPS_CLin/blob/main/hw8/good_plot.png)
-Different experiments are marked with different colors. There are many lines in the plot, so labels alongside with the line is preferred over legends in the corner.
+
+  Different experiments are marked with different colors. There are many lines in the plot, so labels alongside with the line is preferred over legends in the corner.
 - **effect size**: The numerical qauntity does match the size.
 - **data/ink**: only necessary infomation is plotted.
 - **no chart junk**: There is no excessive design.

@@ -2,7 +2,7 @@
 **Bad plot**:
 paper link: https://arxiv.org/abs/2311.10917
 ![Bad plot](https://github.com/chacelin993/DSPS_CLin/blob/main/hw8/bad_plot.png)
-- The x and y axis are not labeled. The ticks are too small to see clearly. The direction of arrows is difficult to read.
+- The model considers two players in competition in a colsed Nash-equilibrium loop. The plots show the visualization of how competition intensity parameters (a<sub>12</sub> and a<sub>21</sub> affect the system: if a<sub>12</sub> X a<sub>21</sub> < 1, the system reaches a stable coexistence point. If the product is larger than 1, there  is massive competition and the outcome dpends on the initial conditions. The problems with these plots are: The resolution is too low to see clearly; the x and y axis are not labeled; the ticks are too small. The direction of arrows is difficult to read.
 - **effect size**: The numerical qauntity does match the size.
 - **data/ink**: The field lines can be reduced.
 - **no chart junk**: There is no excessive design.
